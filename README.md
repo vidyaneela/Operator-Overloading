@@ -3,7 +3,7 @@
 ## Aim:
  To write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading. 
  
- ##Algorithm:
+ ## Algorithm:
  ### Step 1:
 Create a class operator
 
@@ -20,7 +20,7 @@ create a object to store the return object
 print the program.
  
 
- ##Program:
+ ## Program:
  ```
 using System;
 namespace operator_overloading
@@ -67,9 +67,9 @@ namespace operator_overloading
 }
 ```
  
- ##Output:
+ ## Output:
  ![image](https://github.com/vidyaneela/Operator-Overloading/assets/94169318/dc6befc4-5387-4666-8d54-0b90ab8a8672)
 
  
- ##Result:
+ ## Result:
 Thus the C# program to check whether objects are equal using operator overloading is implemented successfully.
